@@ -1,9 +1,7 @@
 # Access Request
 
 **Name:** Mayur Soni
-
 **Role:** PART-TIME INTERN
-
 **Department:** Full Stack Development
 
 **GitHub Username:** @mayursoni5

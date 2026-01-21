@@ -5,9 +5,11 @@
 - [ ] I have filled out the template with my correct details.
 
 ### User Details
-- **Name:**
-- **GitHub Username:**
+
+- **Name:** Mayur Soni
+- **GitHub Username:** @mayursoni5
 
 ### Admin Checklist (For Reviewers)
+
 - [ ] User Identity Verified
 - [ ] Invitation Sent
